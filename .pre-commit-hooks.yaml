@@ -1,0 +1,6 @@
+- id: ktlint
+  name: ktlint
+  entry: ktlint --format
+  language: script
+  files: "kt"
+
